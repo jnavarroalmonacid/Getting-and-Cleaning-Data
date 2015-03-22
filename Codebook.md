@@ -15,12 +15,19 @@ El experimento se llevó a cabo con un grupo de 30 voluntarios de entre 19 a 48 
 Los datos incluyen los siguientes archivos:
 
 'README.txt'
+
 'features_info.txt': Muestra la información acerca de las variables.
+
 'features.txt': Lista de todas las características.
+
 'activity_labels.txt': Enlaza las etiquetas de clase con el nombre de la actividad.
+
 'train/X_train.txt': Set de entrenamiento.
+
 'train/y_train.txt': Etiquetas de entrenamiento.
+
 'test/X_test.txt': Set de pruebas.
+
 'test/y_test.txt': Etiquetas de las pruebas.
 
 Los siguientes archivos están disponibles para los datos de pruebas y entrenamiento.
