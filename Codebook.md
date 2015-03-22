@@ -36,9 +36,13 @@ Los siguientes archivos están disponibles para los datos de pruebas y entrenami
 Detalles de las transformaciones
 
 1) Unir los datos de entrenamiento y las pruebas para crear un único set de datos.
+
 2) Extraer solo las mediciones sobre la media y la desviación estándar para cada medida.
+
 3) Usar nombres descriptivos para nombrar las actividades en el set de datos.
+
 4) Etiquetar apropiadamente los datos con los nombres.
+
 5) Crear un segundo tidy data set, con el promedio de cada variable para cada actividad y cada sujeto.
 
 ## Como run_analysis.R realiza los pasos descritos:
