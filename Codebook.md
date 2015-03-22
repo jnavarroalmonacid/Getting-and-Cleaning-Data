@@ -41,7 +41,7 @@ Detalles de las transformaciones
 4) Etiquetar apropiadamente los datos con los nombres.
 5) Crear un segundo tidy data set, con el promedio de cada variable para cada actividad y cada sujeto.
 
-## How run_analysis.R implements the above steps:
+## Como run_analysis.R realiza los pasos descritos:
 
 Requiere los paquetes reshapre2 y data.table.
 Cargar los set de datos de pruebas y entrenamiento (test & train)
