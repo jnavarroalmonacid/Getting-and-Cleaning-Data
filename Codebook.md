@@ -6,11 +6,11 @@ Este es un 'Codebook' que describe las variables, los datos, y cualquier transfo
 Datos originales: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 Descripción original del conjunto de datos: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-## Data Set Information
+## Información del set de datos
 
 El experimento se llevó a cabo con un grupo de 30 voluntarios de entre 19 a 48 años de edad. Cada persona realizó seis actividades (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) usando un smartphone (Samsung Galaxy S2 ) en la cintura. Usando el acelerómetro y el giroscopio del teléfono, se capturaron datos de aceleración lineal y velocidad angular en 3 ejes, a una tasa constante de 50Hz.
 
-## Los daots
+## Los datos
 
 Los datos incluyen los siguientes archivos:
 
